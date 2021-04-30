@@ -5,5 +5,10 @@ kheer
 pasta
 chicken
 
+beans
+pizza
+burger
+
+
 
 thanku
